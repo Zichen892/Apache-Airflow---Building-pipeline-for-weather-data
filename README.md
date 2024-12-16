@@ -19,7 +19,7 @@ This project contains following files and folders:
 
 
 
-![postgres](/Users/zichenfan/Documents/ETLweather/images/postgres.png)
+![postgres](ETLweather/images/postgres.png)
 
 
 
